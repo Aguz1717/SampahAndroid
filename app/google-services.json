@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "488208396039",
+    "project_id": "sampah-59c76",
+    "storage_bucket": "sampah-59c76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488208396039:android:318a25bb93eaefc7421fa2",
+        "android_client_info": {
+          "package_name": "com.loc.sampahuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488208396039-lu53o6pnojap7pamckfg7scik75dn9og.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loc.sampahuser",
+            "certificate_hash": "8a19ba3fa6c8a69387f48ffb8ac771f1c0fdec02"
+          }
+        },
+        {
+          "client_id": "488208396039-tloht1njont5h8kuotogihlgd6ouf0p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANkNdVFed5mlVJA-Z33BgY8B4nZ_5V-s8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488208396039-tloht1njont5h8kuotogihlgd6ouf0p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
